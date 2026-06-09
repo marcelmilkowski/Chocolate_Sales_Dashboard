@@ -1,6 +1,6 @@
 # Chocolate Sales Dashboard
 
-## Data Source  https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales?select=ChocolateSales.pdf
+## Data Source  https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales?select=Chocolate+Sales+%282%29.csv
 
 This project presents a sales analysis dashboard created in Power BI for a chocolate sales dataset. The goal of the project was to explore sales performance across countries, products, salespeople, and time periods
 
